@@ -2,7 +2,7 @@
  * vim: ts=4:sw=4:fdm=marker
  *
  * (c) 2014 Przemyslaw Iskra <sparky@pld-linux.org>
- * You can use this code under the terms of AGPL license.
+ * You can use this code under the terms of AGPL v3 license.
  *
  * compile with:
  *

@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #
 # (c) 2014 Przemyslaw Iskra <sparky@pld-linux.org>
-# You can use this code under the terms of AGPL license.
+# You can use this code under the terms of AGPL v3 license.
 #
 use strict;
 use warnings;
